@@ -7,7 +7,9 @@ public class CLIAmortization {
 
         Scanner scnr = new Scanner(System.in);
 
-        System.out.println("Loan amount: ");
+        System.out.println("Loan Amortization Calculator");
+
+        System.out.println("Loan amount (without comma): ");
         double amount = scnr.nextDouble();
 
         System.out.println("Payment tearms (in years): ");
