@@ -27,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/CLIAmortization.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+            <state relative-caret-position="232">
+              <caret line="25" column="199" selection-start-line="25" selection-start-column="199" selection-end-line="25" selection-end-column="199" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -140,7 +140,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551253941329" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551254379677" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -238,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1551253320722</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="minor changes made CLIAmortization.java">
+      <created>1551254016447</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1551254016447</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -280,7 +287,7 @@
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
-      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.28040057" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.28040057" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
@@ -294,7 +301,8 @@
     <MESSAGE value="Updated pom.xml" />
     <MESSAGE value="." />
     <MESSAGE value="added -Djdk.net.URLClassPath.disableClassPathURLCheck=true in pom.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="added -Djdk.net.URLClassPath.disableClassPathURLCheck=true in pom.xml" />
+    <MESSAGE value="minor changes made CLIAmortization.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor changes made CLIAmortization.java" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/Amortization.java">
@@ -354,8 +362,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/CLIAmortization.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+        <state relative-caret-position="232">
+          <caret line="25" column="199" selection-start-line="25" selection-start-column="199" selection-end-line="25" selection-end-column="199" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

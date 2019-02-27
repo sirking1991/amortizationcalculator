@@ -23,7 +23,7 @@ public class CLIAmortization {
 
         AmortSched[] schedule = amortization.getSchedule();
 
-        System.out.println("Monthly payment:"+amortization.getMonthlyPayment()+" Total interest:"+amortization.getTotalInterest()+" Total payment:"+amortization.getTotalPayment());
+        System.out.println("Monthly payment:"+round(amortization.getMonthlyPayment())+" Total interest:"+round(amortization.getTotalInterest())+" Total payment:"+round(amortization.getTotalPayment()));
 
         System.out.println(" #  /  Payment  /  Interest  /  Principal  /  Balance");
 
