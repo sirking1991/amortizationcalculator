@@ -1,5 +1,4 @@
-import com.sirking1991.amortization.Amortization;
-import com.sirking1991.amortization.AmortSched;
+import com.sirking1991.amortization.*;
 
 import java.util.Scanner;
 
