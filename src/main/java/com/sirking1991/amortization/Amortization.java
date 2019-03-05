@@ -1,3 +1,4 @@
+package com.sirking1991.amortization;
 
 public class Amortization {
 
@@ -33,7 +34,7 @@ public class Amortization {
 
         schedule  = new AmortSched[months];
 
-        CalcAmortSched();
+        calcAmortSched();
     }
 
 
@@ -44,7 +45,7 @@ public class Amortization {
     /**
      * Loop from month-0 to month-n calculating each month's interest payment, principal payment & principal balance
      */
-    private void CalcAmortSched(){
+    private void calcAmortSched(){
 
         double runningBalance = amount;
 
@@ -76,18 +77,3 @@ public class Amortization {
 
 }
 
-class AmortSched {
-    int month;
-    double amortization;
-    double interest;
-    double principal;
-    double balance;
-
-    public AmortSched() {
-        this.month = 0;
-        this.amortization = 0;
-        this.interest = 0;
-        this.principal = 0;
-        this.balance = 0;
-    }
-}

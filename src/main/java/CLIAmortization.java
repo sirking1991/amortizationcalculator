@@ -1,5 +1,8 @@
-import java.text.DecimalFormat;
+import com.sirking1991.amortization.Amortization;
+import com.sirking1991.amortization.AmortSched;
+
 import java.util.Scanner;
+
 
 public class CLIAmortization {
 

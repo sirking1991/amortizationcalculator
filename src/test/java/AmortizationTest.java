@@ -1,3 +1,5 @@
+import com.sirking1991.amortization.AmortSched;
+import com.sirking1991.amortization.Amortization;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
